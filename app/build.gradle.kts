@@ -68,6 +68,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
 
+    // for drawing in compose    https://github.com/akshay2211/DrawBox
     implementation("io.ak1:drawbox:1.0.3")
 
 }
